@@ -1,0 +1,22 @@
+{
+  "name": "seb-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@material/web": "^1.5.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "vite": "^5.0.0",
+    "vitest": "^3.2.4"
+  },
+  "private": true
+}

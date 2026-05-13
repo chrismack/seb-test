@@ -1,0 +1,17 @@
+{
+  "stand 401": {
+    "name": "Stand 401",
+    "location": "blah 123",
+    "help": false
+  },
+  "mscp1": {
+    "name": "multi story car park 1",
+    "location": "By the cars",
+    "help": true
+  },
+  "mscp2": {
+    "name": "multi story car park 2",
+    "location": "By the other cars",
+    "help": true
+  }
+}
